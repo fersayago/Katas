@@ -1,14 +1,13 @@
-import "./App.css";
-import "./components/Navbar";
+import './styles.css'
 import Navbar from './components/Navbar'
+import Searchbar from './components/Searchbar'
 
 function App() {
   return (
     <div>
       <Navbar />
       <div className="App">
-        <h1>Hello Fer</h1>
-        <h2>Start editing to see some magic happen</h2>
+        <Searchbar />
       </div>
     </div>
   );
