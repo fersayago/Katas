@@ -56,8 +56,8 @@ nav {
 
 .pokedex-grid{
   display: grid;
-  grid-auto-columns: repeat(3, 1fr);
-  grid-gap: 10px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 18px;
   padding: 0px 10px;
 }
 
@@ -104,6 +104,13 @@ nav {
 
 .card-top h3{
   text-transform: capitalize;
+}
+
+.pagination {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
 }
 
 .App {

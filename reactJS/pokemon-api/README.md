@@ -1,6 +1,6 @@
 link al proyecto:
-https://www.youtube.com/watch?v=IFWvfZaKF_w
-retomar 01:31:00 despues de creaer Navbar
+1: https://www.youtube.com/watch?v=IFWvfZaKF_w -> TERMINADA
+2: https://www.youtube.com/watch?v=y2UNbpJprZg -> POR COMENZAR
 
 # Getting Started with Create React App
 
